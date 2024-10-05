@@ -6,4 +6,4 @@
 </p>
 
 #### Stats:
-[![roonia](https://github-readme-stats.vercel.app/api?username=ronia-jakim)](https://github.com/anuraghazra/github-readme-stats)
+[![roonia](https://github-readme-stats.vercel.app/api?username=ronia-jakim)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ronia-jakim))
