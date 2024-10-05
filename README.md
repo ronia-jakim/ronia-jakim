@@ -2,14 +2,20 @@
     <a href="https://www.meowingtons.com/blogs/lolcats/12-perfect-loop-cat-gifs">
         <img alt="i love recursion" src="https://cdn.shopify.com/s/files/1/0344/6469/files/cat-gif-loop-yawn_grande.gif?v=1523984811">
     </a><br />
-    To understand recursion, one must first become recursion.
+    <i>To understand recursion, one must first become recursion.</i>
     <br/>
+    <br />
 </div>
 <div align="center">
     
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/weronika-jakimowicz-10101b330/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:weronikajakimowicz2@gmail.com?subject=Hello%20From%20GitHub)
 
+</div>
+
+<div align="center">
+    <a href="">My beautiful website
+    </a>
 </div>
 
 <h2 align="center"> 🪴 About me 🪴 </h2>
