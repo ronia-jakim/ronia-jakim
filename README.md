@@ -3,5 +3,5 @@
 </p>
 
 <div align="center">
-[![roonia](https://github-readme-stats.vercel.app/api?username=ronia-jakim)](https://github.com/ronia-jakim)
+<img src="https://github-readme-stats.vercel.app/api?username=ronia-jakim">
 </div>
