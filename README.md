@@ -1,6 +1,5 @@
-#### My Skills: 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,arch,js,latex,unity,postgres,py&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,cs,arch,latex,unity,postgres,py,neovim,ocaml,html,css,js&perline=5" />
 </p>
 
 #### Stats:
