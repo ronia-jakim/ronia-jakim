@@ -13,11 +13,6 @@
 
 </div>
 
-<div align="center">
-    <a href="">My beautiful website
-    </a>
-</div>
-
 <h2 align="center"> 🪴 About me 🪴 </h2>
     <ul>
         <li>Theoretically a mathematician from University of Wrocław enrolled in a masters programme 🧮</li>
