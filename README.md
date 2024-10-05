@@ -4,9 +4,12 @@
     </a><br />
     To understand recursion, one must first become recursion.
     <br/>
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/weronika-jakimowicz-10101b330/) &nbsp;
+</div>
+<div align="center">
+    
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/weronika-jakimowicz-10101b330/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:weronikajakimowicz2@gmail.com?subject=Hello%20From%20GitHub)
-    </a>
+
 </div>
 
 <h2 align="center"> 🪴 About me 🪴 </h2>
